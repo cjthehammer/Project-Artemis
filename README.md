@@ -1,6 +1,6 @@
 Project-Artemis
 ===============
-Project Artemis is the WIP name for an in-progress 2D free roaming action RPG
+Project Artemis is the WIP name for an in-progress 2D free roaming action RPG.
 The game will feature a homemade engine and will focus around creating a living, breathing world where the player can make their experience unique
 Randomized items and customizable skills will allow the player to find the playstyle they enjoy best, while keeping the gameplay skill based
 The open world will feature major factions along with randomized clans that will fight and trade with each other without any player interaction, but will react to player involvement
